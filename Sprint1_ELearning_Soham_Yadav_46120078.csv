@@ -1,0 +1,335 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Cloners),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+Verify the comment field under social wall and uploaded post to enlarge field size within specific borders.,EL-95,10134,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,07/Sep/21 9:46 AM,07/Sep/21 9:53 AM,07/Sep/21 9:50 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-40,EL-3,,,,,,,,,,,,{},,,,,,,0|i000dz:,,EL Sprint 1,,,,,,,,In Progress
+User should not be able to click post button with blank fields,EL-94,10133,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,07/Sep/21 9:25 AM,07/Sep/21 9:48 AM,07/Sep/21 9:48 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section under social wall and under uploaded post.
+
+4. Enter emojies in command fields.
+
+Expected result :
+Use should be able to view emojies after posting the comment.
+
+Actual result :
+Use is not able to view emojies after posting the comment.
+
+
+
+!emojies bug-20210907-091849.JPG|width=649,height=619!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-3,EL-22,,EL-93,EL-22,,,,,,,,,,,,{},,,,,,,0|i000dr:,,EL Sprint 1,,,,,,,,To Do
+User is not able to enter emojies.,EL-93,10132,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,07/Sep/21 9:17 AM,07/Sep/21 9:52 AM,07/Sep/21 9:37 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section under social wall and under uploaded post.
+
+4. Enter emojies in command fields.
+
+Expected result :
+Use should be able to view emojies after posting the comment.
+
+Actual result :
+Use is not able to view emojies after posting the comment.
+
+
+
+!emojies bug-20210907-091849.JPG|width=649,height=619!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-3,EL-34,EL-9,EL-51,EL-9,EL-34,,07/Sep/21 9:21 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;emojies bug-20210907-091849.JPG;https://corporateola100.atlassian.net/secure/attachment/10032/emojies+bug-20210907-091849.JPG,,,,,,,,,{},,,,,,,0|i000cv:,,EL Sprint 1,,,,,,,,To Do
+Search button can be clicken with blank fields,EL-92,10131,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:52 AM,07/Sep/21 9:12 AM,07/Sep/21 9:37 AM,,,0,"Visiblity of search field
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to My Friends/My Groups section.
+4. click on search button for more filter for no values in fields.
+
+5. Go to friend, group field
+
+Expected result :Use should not be able to click submit button with all empty fields.
+
+Actual result :Use is able to click submit button with all empty fields.
+
+
+
+!no fields filled-20210906-102112.JPG|width=897,height=286!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-88,EL-76,,EL-91,EL-88,,,06/Sep/21 10:26 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;no fields filled-20210906-102112.JPG;https://corporateola100.atlassian.net/secure/attachment/10030/no+fields+filled-20210906-102112.JPG,,,,,,,,,{},,,,,,,0|i000db:,,EL Sprint 1,,,,,,,,To Do
+"User is able to put 256 characters in friend, group field.",EL-91,10130,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:47 AM,07/Sep/21 9:11 AM,07/Sep/21 9:37 AM,,,0,"Visiblity of search field
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to My Friends/My Groups section.
+4. click on search button for more filter.
+
+5. Go to friend, group field
+
+Expected result :Use should not be able type 256 characters.
+
+Actual result :Use is able to type 256 characters
+
+
+
+!search fg field-20210906-101851.JPG|width=869,height=344!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-84,EL-76,,EL-73,EL-84,,,06/Sep/21 10:19 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;search fg field-20210906-101851.JPG;https://corporateola100.atlassian.net/secure/attachment/10029/search+fg+field-20210906-101851.JPG,,,,,,,,,{},,,,,,,0|i000d3:,,EL Sprint 1,,,,,,,,To Do
+Verify the search button for no results,EL-90,10129,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:30 AM,07/Sep/21 4:55 AM,07/Sep/21 4:14 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-89,EL-76,,,,,,,,,,,,{},,,,,,,0|i000cj:,,EL Sprint 1,,,,,,,,Done
+Verify the search button for values in fields,EL-89,10128,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:28 AM,07/Sep/21 9:57 AM,07/Sep/21 4:28 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-88,EL-76,,,,,,,,,,,,{},,,,,,,0|i000cn:,,EL Sprint 1,,,,,,,,Done
+Verify the search button for null fields,EL-88,10127,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:27 AM,07/Sep/21 9:12 AM,07/Sep/21 4:26 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-87,EL-76,,,,,,,,,,,,{},,,,,,,0|i000cf:,,EL Sprint 1,,,,,,,,In Progress
+Verify the text field in select field for alphanumeric values.,EL-87,10126,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:24 AM,07/Sep/21 4:55 AM,09/Sep/21 4:53 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-86,EL-76,,,,,,,,,,,,{},,,,,,,0|i000c7:,,EL Sprint 1,,,,,,,,Done
+Verify the select field for options.,EL-86,10125,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 8:21 AM,07/Sep/21 4:55 AM,09/Sep/21 4:53 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-85,EL-76,,,,,,,,,,,,{},,,,,,,0|i000bz:,,EL Sprint 1,,,,,,,,Done
+"Verify the name,group field for special characters.",EL-85,10124,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 7:38 AM,07/Sep/21 9:58 AM,07/Sep/21 4:05 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-84,EL-76,,,,,,,,,,,,{},,,,,,,0|i000br:,,EL Sprint 1,,,,,,,,Done
+"Verify the name,group field for 256 cjharacters.",EL-84,10123,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 7:32 AM,07/Sep/21 9:11 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-83,EL-76,,,,,,,,,,,,{},,,,,,,0|i000bj:,,EL Sprint 1,,,,,,,,In Progress
+"Verify the name,group field for null value.",EL-83,10122,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 7:30 AM,07/Sep/21 9:59 AM,07/Sep/21 4:28 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-82,EL-76,,,,,,,,,,,,{},,,,,,,0|i000bb:,,EL Sprint 1,,,,,,,,Done
+"Verify the name,group field for numeric value.",EL-82,10121,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 7:29 AM,07/Sep/21 4:55 AM,09/Sep/21 4:53 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-77,EL-76,,,,,,,,,,,,{},,,,,,,0|i000b3:,,EL Sprint 1,,,,,,,,Done
+"Verify the name,group field for alphabetic value.",EL-77,10116,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 7:04 AM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-57,EL-76,,,,,,,,,,,,{},,,,,,,0|i000av:,,EL Sprint 1,,,,,,,,Done
+"As a user I want to filter my friend and group name in search section of ""My Friends"" and ""My Group"" so that I would be able to search required name in Social Networks.",EL-76,10115,Story,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,06/Sep/21 4:36 AM,07/Sep/21 10:04 AM,09/Sep/21 4:17 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000an:,,EL Sprint 1,,,,,,,,In Progress
+Varify group name field for displaying group name.,EL-75,10114,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,04/Sep/21 7:16 PM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-66,EL-65,,,,,,,,,,,,{},,,,,,,0|i000af:,,EL Sprint 1,,,,,,,,Done
+User is able to put 256 characters in search field under My groups.,EL-73,10112,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 11:22 AM,07/Sep/21 9:12 AM,07/Sep/21 7:31 AM,,,0,"Visiblity of search field
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to My Groups section.
+4. Go to search field and type 256 characters.
+
+Expected result :Use should be able type 256 characters.
+
+Actual result :Use is able to type 256 characters
+
+ 
+
+!my group search-20210903-112350.JPG|width=310,height=238!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-70,EL-65,,EL-64,EL-70,,,03/Sep/21 11:24 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;my group search-20210903-112350.JPG;https://corporateola100.atlassian.net/secure/attachment/10028/my+group+search-20210903-112350.JPG,,,,,,,,,{},,,,,,,0|i000a7:,,EL Sprint 1,,,,,,,,To Do
+Verify the search button for no text.,EL-72,10111,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 11:11 AM,07/Sep/21 4:55 AM,07/Sep/21 4:06 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-63,EL-65,,,,,,,,,,,,{},,,,,,,0|i0009z:,,EL Sprint 1,,,,,,,,Done
+Verify the search button for text.,EL-71,10110,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 11:11 AM,07/Sep/21 4:53 AM,07/Sep/21 4:14 AM,07/Sep/21 4:53 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-62,EL-65,,,,,,,,,,,,{},,,,,,,0|i0009r:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for 256 characters.,EL-70,10109,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 11:06 AM,07/Sep/21 9:11 AM,07/Sep/21 4:22 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-61,EL-65,,,,,,,,,,,,{},,,,,,,0|i0009j:,,EL Sprint 1,,,,,,,,In Progress
+Verify the search field for special characters.,EL-69,10108,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 11:06 AM,07/Sep/21 4:55 AM,09/Sep/21 4:53 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-60,EL-65,,,,,,,,,,,,{},,,,,,,0|i0009b:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for null value.,EL-68,10107,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:58 AM,07/Sep/21 4:55 AM,07/Sep/21 4:15 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-59,EL-65,,,,,,,,,,,,{},,,,,,,0|i00093:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for numeric value.,EL-67,10106,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:56 AM,07/Sep/21 9:57 AM,07/Sep/21 4:20 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-58,EL-65,,,,,,,,,,,,{},,,,,,,0|i0008v:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for alphabetic value.,EL-66,10105,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:54 AM,07/Sep/21 9:58 AM,07/Sep/21 3:52 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-57,EL-65,,,,,,,,,,,,{},,,,,,,0|i0008n:,,EL Sprint 1,,,,,,,,Done
+As a user I want to type text in the search field so that I would be able to search a group under my groups in Social Networks.,EL-65,10104,Story,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:51 AM,07/Sep/21 7:12 AM,07/Sep/21 7:12 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-56,,,,,,,,,,,,,{},,,,,,,0|i0008f:,,EL Sprint 1,,,,,,,,In Progress
+User is able to put 256 characters in search field under My friends.,EL-64,10103,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:47 AM,07/Sep/21 9:08 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of search field
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to My Friends section.
+4. Go to search field and type 256 characters.
+
+Expected result :Use should be able type 256 characters.
+
+Actual result :Use is able to type 256 characters
+
+ !image-2021-09-03-16-17-27-978.png|thumbnail! ",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-61,EL-56,,,EL-61,,,03/Sep/21 10:47 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;image-2021-09-03-16-17-27-978.png;https://corporateola100.atlassian.net/secure/attachment/10027/image-2021-09-03-16-17-27-978.png,,,,,,,,,{},,,,,,,0|i0007f:,,EL Sprint 1,,,,,,,,To Do
+Verify the search button for no text.,EL-63,10102,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:25 AM,07/Sep/21 4:55 AM,07/Sep/21 3:59 AM,07/Sep/21 4:55 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-62,EL-56,,,,,,,,,,,,{},,,,,,,0|i0009n:,,EL Sprint 1,,,,,,,,Done
+Verify the search button for text.,EL-62,10101,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:15 AM,07/Sep/21 4:54 AM,07/Sep/21 4:13 AM,07/Sep/21 4:54 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-21,EL-56,,,,,,,,,,,,{},,,,,,,0|i0007r:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for 256 characters.,EL-61,10100,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:07 AM,07/Sep/21 9:08 AM,07/Sep/21 4:02 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-60,EL-56,,,,,,,,,,,,{},,,,,,,0|i0007j:,,EL Sprint 1,,,,,,,,In Progress
+Verify the search field for special characters.,EL-60,10099,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:04 AM,07/Sep/21 9:59 AM,07/Sep/21 3:57 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-59,EL-56,,,,,,,,,,,,{},,,,,,,0|i0007b:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for null value.,EL-59,10098,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:03 AM,07/Sep/21 9:57 AM,07/Sep/21 3:53 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-58,EL-56,,,,,,,,,,,,{},,,,,,,0|i00073:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for numeric value.,EL-58,10097,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 10:01 AM,07/Sep/21 9:57 AM,07/Sep/21 4:12 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-57,EL-56,,,,,,,,,,,,{},,,,,,,0|i0006v:,,EL Sprint 1,,,,,,,,Done
+Verify the search field for alphabetic value.,EL-57,10096,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 9:32 AM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-4,EL-56,,,,,,,,,,,,{},,,,,,,0|i0006n:,,EL Sprint 1,,,,,,,,Done
+As a user I want to type text in the search field so that I would be able to search a friend under my friends in Social Networks.,EL-56,10095,Story,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 9:30 AM,07/Sep/21 7:12 AM,07/Sep/21 7:12 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0006f:,,EL Sprint 1,,,,,,,,In Progress
+Small text is displayed besides username in comment section under uploaded post.,EL-55,10094,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 7:00 AM,07/Sep/21 9:01 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section type  and upload comment under uploaded post.
+
+Expected result :
+Use should be able to view comment below the time displayed of comment even if the comment is small.
+
+Actual result :
+Use is not able to view comment below the time displayed of comment only when the text is big and if the test is small it gets print beside user name.
+
+
+
+!exceeding text comment-20210903-070711.JPG|width=1052,height=709!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-53,EL-3,,EL-54,EL-53,,,03/Sep/21 7:09 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;exceeding text comment-20210903-070711.JPG;https://corporateola100.atlassian.net/secure/attachment/10026/exceeding+text+comment-20210903-070711.JPG,,,,,,,,,{},,,,,,,0|i00066:6,,EL Sprint 1,,,,,,,,To Do
+User is not able to view text in uploaded post in fixed dimention.,EL-54,10093,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 6:44 AM,07/Sep/21 9:10 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment field and type a long comment and post it.
+
+Expected result :
+Use should be able to view comment displayed in a proper fixed dimention area and do not exceed its borders.
+
+Actual result :
+Use is not able to view comment displayed in a proper fixed dimention area and exceeds its borders.
+
+!exceeding text-20210903-065353.JPG|width=1191,height=514!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-52,EL-3,,EL-51,EL-52,,,07/Sep/21 5:24 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;exceeding text-20210903-065353.JPG;https://corporateola100.atlassian.net/secure/attachment/10031/exceeding+text-20210903-065353.JPG,,,,,,,,,{},,,,,,,0|i00066:4,,EL Sprint 1,,,,,,,,To Do
+Verify the uploaded post for comment posted on it.,EL-53,10092,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 6:33 AM,07/Sep/21 9:01 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-52,,,,,,,,,,,,,{},,,,,,,0|i00066:b,,EL Sprint 1,,,,,,,,In Progress
+Verify the uploaded posts and comment on the post for displayed text within fixed dimention area.,EL-52,10091,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 6:28 AM,07/Sep/21 9:10 AM,07/Sep/21 5:22 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-36,,,,,,,,,,,,,{},,,,,,,0|i00066:fr,,EL Sprint 1,,,,,,,,In Progress
+Enlarge comment field overlapse other components,EL-51,10090,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:59 AM,07/Sep/21 9:50 AM,07/Sep/21 9:39 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section and enlarge the comment section of social wall and upload post.
+
+4. Enlarge the comment section of the comments under uploaded post.
+
+Expected result :
+Use should be able to enlarge comment section in specific dimention without overlaping other components.
+
+Actual result :
+Use is not able to enlarge comment section in specific dimention without overlaping other components.
+
+!enlarge-20210903-061801.JPG|width=1177,height=926!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-3,EL-95,,EL-49,EL-95,,,03/Sep/21 6:40 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;enlarge-20210903-061801.JPG;https://corporateola100.atlassian.net/secure/attachment/10025/enlarge-20210903-061801.JPG,,,,,,,,,{},,,,,,,0|i00065:er,,EL Sprint 1,,,,,,,,To Do
+User cannot archive post.,EL-49,10088,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:28 AM,07/Sep/21 9:09 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section add comment add file and upload the post.
+
+4. Archive the uploaded post.
+
+Expected result :
+Use should be able to archive uploaded post.
+
+Actual result :
+Use is not able to archive uploaded post.
+
+!selected file not visible-20210903-045136 (c82b2572-1989-4c89-b008-0031b025026c).JPG|width=633,height=507!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-25,EL-3,,EL-47,EL-25,,,03/Sep/21 5:28 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected 2-20210903-051156.JPG;https://corporateola100.atlassian.net/secure/attachment/10017/selected+2-20210903-051156.JPG,03/Sep/21 5:28 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136 (c82b2572-1989-4c89-b008-0031b025026c).JPG;https://corporateola100.atlassian.net/secure/attachment/10018/selected+file+not+visible-20210903-045136+%28c82b2572-1989-4c89-b008-0031b025026c%29.JPG,03/Sep/21 5:28 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136.JPG;https://corporateola100.atlassian.net/secure/attachment/10019/selected+file+not+visible-20210903-045136.JPG,03/Sep/21 5:28 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file-20210903-045058.JPG;https://corporateola100.atlassian.net/secure/attachment/10020/selected+file-20210903-045058.JPG,,,,,,{},,,,,,,0|i00065:dr,,EL Sprint 1,,,,,,,,To Do
+User cannot reply to the comment.,EL-48,10087,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:24 AM,07/Sep/21 9:07 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section add comment add file and upload the post.
+
+4. comment on the post.
+
+5. Reply to the comment.
+
+Expected result :
+Use should be able to reply to the comment on uploaded post.
+
+Actual result :
+Use is not able to reply to the comment on uploaded post.
+
+!reply on comment-20210903-052624.JPG|width=634,height=743!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-38,EL-3,,EL-47,EL-38,,,03/Sep/21 5:26 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;reply on comment-20210903-052624.JPG;https://corporateola100.atlassian.net/secure/attachment/10016/reply+on+comment-20210903-052624.JPG,,,,,,,,,{},,,,,,,0|i00065:g,,EL Sprint 1,,,,,,,,To Do
+User cannot update/edit uploaded post.,EL-47,10086,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:18 AM,07/Sep/21 9:10 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the comment section add comment add file and upload the post.
+
+4. Edit or update the uploaded post.
+
+
+
+Expected result :
+Use should be able to update/edit uploaded post.
+
+Actual result :
+Use is not able to update/edit uploaded post.
+
+
+
+!selected file not visible-20210903-045136 (c82b2572-1989-4c89-b008-0031b025026c).JPG|width=633,height=507!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-24,EL-3,,EL-46,EL-24,,,03/Sep/21 5:18 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected 2-20210903-051156.JPG;https://corporateola100.atlassian.net/secure/attachment/10012/selected+2-20210903-051156.JPG,03/Sep/21 5:21 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136 (c82b2572-1989-4c89-b008-0031b025026c).JPG;https://corporateola100.atlassian.net/secure/attachment/10015/selected+file+not+visible-20210903-045136+%28c82b2572-1989-4c89-b008-0031b025026c%29.JPG,03/Sep/21 5:18 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136.JPG;https://corporateola100.atlassian.net/secure/attachment/10013/selected+file+not+visible-20210903-045136.JPG,03/Sep/21 5:18 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file-20210903-045058.JPG;https://corporateola100.atlassian.net/secure/attachment/10014/selected+file-20210903-045058.JPG,,,,,,{},,,,,,,0|i00065:ei,,EL Sprint 1,,,,,,,,To Do
+User cannot preview selected file before uploading post.,EL-46,10085,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:15 AM,07/Sep/21 9:12 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the upload file tab and select multiple files.
+
+Expected result :
+Use should be able to Select multiple files.
+
+Actual result :
+Use is not able to Select multiple files.
+
+!selected file-20210903-045058.JPG|width=639,height=399!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-43,EL-3,,EL-45,EL-43,,,03/Sep/21 5:15 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected 2-20210903-051156.JPG;https://corporateola100.atlassian.net/secure/attachment/10009/selected+2-20210903-051156.JPG,03/Sep/21 5:15 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136.JPG;https://corporateola100.atlassian.net/secure/attachment/10010/selected+file+not+visible-20210903-045136.JPG,03/Sep/21 5:15 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file-20210903-045058.JPG;https://corporateola100.atlassian.net/secure/attachment/10011/selected+file-20210903-045058.JPG,,,,,,,{},,,,,,,0|i00066:fi,,EL Sprint 1,,,,,,,,To Do
+Multiple files cannot be selected for upload.,EL-45,10084,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:09 AM,07/Sep/21 9:12 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the upload file tab and select multiple files.
+
+Expected result :
+Use should be able to Select multiple files.
+
+Actual result :
+Use is not able to Select multiple files.
+
+!selected file-20210903-045058.JPG|width=639,height=399!
+
+!selected 2-20210903-051156.JPG|width=649,height=287!",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-44,EL-3,,EL-42,EL-44,,,03/Sep/21 5:12 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected 2-20210903-051156.JPG;https://corporateola100.atlassian.net/secure/attachment/10008/selected+2-20210903-051156.JPG,03/Sep/21 5:09 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136.JPG;https://corporateola100.atlassian.net/secure/attachment/10006/selected+file+not+visible-20210903-045136.JPG,03/Sep/21 5:09 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file-20210903-045058.JPG;https://corporateola100.atlassian.net/secure/attachment/10007/selected+file-20210903-045058.JPG,,,,,,,{},,,,,,,0|i00066:g,,EL Sprint 1,,,,,,,,To Do
+Verify the Social wall to multiple selecte files in file upload..,EL-44,10083,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:07 AM,07/Sep/21 9:12 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-43,EL-3,,,,,,,,,,,,{},,,,,,,0|i00066:f,,EL Sprint 1,,,,,,,,In Progress
+Verify the Social wall to preview selected file in file upload..,EL-43,10082,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 5:05 AM,07/Sep/21 9:12 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-41,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:di,,EL Sprint 1,,,,,,,,In Progress
+Selected files are not displayed in uploaded post.,EL-42,10081,Bug,To Do,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 4:55 AM,07/Sep/21 9:12 AM,07/Sep/21 7:32 AM,,,0,"Visiblity of upload file
+
+step to reproduce:
+
+1. Go to the application
+2. Go to the Social Network tab.
+3. Go to the upload file tab and select a file.
+4. Upload the post with selected file.
+
+Expected result :
+Selected file should be visible in the uploaded post.
+
+Actual result :
+Selected file is not visible in the uploaded post.
+
+!selected file-20210903-045058.JPG|width=639,height=399!
+
+!selected file not visible-20210903-045136.JPG|width=633,height=507!
+
+ ",,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,EL-41,EL-3,,,EL-41,,,03/Sep/21 4:57 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file not visible-20210903-045136.JPG;https://corporateola100.atlassian.net/secure/attachment/10004/selected+file+not+visible-20210903-045136.JPG,03/Sep/21 4:57 AM;ug:6feb0850-d3f8-4ba7-b174-980b666fae0e;selected file-20210903-045058.JPG;https://corporateola100.atlassian.net/secure/attachment/10005/selected+file-20210903-045058.JPG,,,,,,,,{},,,,,,,0|i00066:d,,EL Sprint 1,,,,,,,,To Do
+Verify the Social wall to view selected file in uploaded post.,EL-41,10080,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,03/Sep/21 4:28 AM,07/Sep/21 9:12 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-23,EL-3,,,,,,,,,,,,{},,,,,,,0|i00066:9,,EL Sprint 1,,,,,,,,In Progress
+Verify the comment field under uploaded post to enlarge field size.,EL-40,10079,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 3:28 PM,07/Sep/21 10:00 AM,07/Sep/21 9:45 AM,07/Sep/21 10:00 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-39,EL-3,,,,,,,,,,,,{},,,,,,,0|i00066:i,,EL Sprint 1,,,,,,,,Done
+Verify the comment field in Social wall to enlarge field size.,EL-39,10078,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 3:21 PM,07/Sep/21 10:00 AM,07/Sep/21 8:46 AM,07/Sep/21 10:00 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-38,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:zi,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment for reply.,EL-38,10077,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 3:01 PM,07/Sep/21 9:07 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-37,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:z,,EL Sprint 1,,,,,,,,In Progress
+Verify the uploaded post to delete the comment on post.,EL-37,10076,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:34 PM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-23,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:e,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment post button for comment field.,EL-36,10075,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:30 PM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-35,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:f,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment post button for blank comment field.,EL-35,10074,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:27 PM,07/Sep/21 9:59 AM,07/Sep/21 4:01 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-20,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:d,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment field for emojies.,EL-34,10073,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:25 PM,07/Sep/21 9:59 AM,07/Sep/21 9:05 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-9,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:9,,EL Sprint 1,,,,,,,,In Progress
+Verify the uploaded post's comment field for null .,EL-33,10072,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:24 PM,07/Sep/21 4:53 AM,07/Sep/21 4:04 AM,07/Sep/21 4:53 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-8,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:si,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment field for 256 characters.,EL-32,10071,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:24 PM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-7,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:i,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment field for special characters.,EL-31,10070,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:23 PM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-6,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:u,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment field for numeric value.,EL-30,10069,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:22 PM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-5,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:s,,EL Sprint 1,,,,,,,,Done
+Verify the uploaded post's comment field for alphabetic value.,EL-29,10068,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:21 PM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-4,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:t,,EL Sprint 1,,,,,,,,Done
+Verify the Social wall uploaded post time.,EL-28,10067,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:17 PM,07/Sep/21 9:58 AM,07/Sep/21 4:01 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:m,,EL Sprint 1,,,,,,,,Done
+Verify the Social wall post uploader's name for details.,EL-26,10065,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 2:09 PM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-25,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:4,,EL Sprint 1,,,,,,,,Done
+Verify the Social wall to archive the uploaded post.,EL-25,10064,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 11:50 AM,07/Sep/21 9:09 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-24,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:x,,EL Sprint 1,,,,,,,,In Progress
+Verify the Social wall to update the uploaded post.,EL-24,10063,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 11:49 AM,07/Sep/21 9:10 AM,09/Sep/21 4:53 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-23,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:y,,EL Sprint 1,,,,,,,,In Progress
+Verify the Social wall to delete the uploaded post.,EL-23,10062,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 11:32 AM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-22,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:w,,EL Sprint 1,,,,,,,,Done
+Verify the upload button for no uploads no comments.,EL-22,10061,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 11:09 AM,07/Sep/21 9:57 AM,07/Sep/21 9:27 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-21,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:x,,EL Sprint 1,,,,,,,,Done
+Verify the upload button for no uploads.,EL-21,10060,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:56 AM,07/Sep/21 9:56 AM,07/Sep/21 4:21 AM,07/Sep/21 9:56 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-20,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:t,,EL Sprint 1,,,,,,,,Done
+Verify the upload button for no comments.,EL-20,10059,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:49 AM,07/Sep/21 9:56 AM,07/Sep/21 4:29 AM,07/Sep/21 9:56 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-19,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:p,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for pptx file.,EL-19,10058,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:38 AM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-18,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:o,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for jpg file.,EL-18,10057,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:37 AM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-17,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:v,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for png file.,EL-17,10056,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:32 AM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-16,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:v,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for xlsx file.,EL-16,10055,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:27 AM,07/Sep/21 9:57 AM,07/Sep/21 4:41 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-15,EL-3,,,,,,,,,,,,{},,,,,,,0|i00066:,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for doc file.,EL-15,10054,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:25 AM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-14,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:r,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for mp3 file.,EL-14,10053,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:25 AM,07/Sep/21 9:56 AM,09/Sep/21 4:53 AM,07/Sep/21 9:56 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-13,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:9,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for mp4 file.,EL-13,10052,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:20 AM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-12,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:m,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for txt file.,EL-12,10051,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:19 AM,07/Sep/21 9:57 AM,09/Sep/21 4:53 AM,07/Sep/21 9:57 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-11,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:i,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for pdf file.,EL-11,10050,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 10:18 AM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-10,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:r,,EL Sprint 1,,,,,,,,Done
+Verify the File Upload field for Jpeg file.,EL-10,10049,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 9:51 AM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-8,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:i,,EL Sprint 1,,,,,,,,Done
+Verify the comment field for emojies.,EL-9,10048,Test,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 9:46 AM,07/Sep/21 9:58 AM,07/Sep/21 9:05 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-8,EL-3,,,,,,,,,,,,{},,,,,,,0|i00064:,,EL Sprint 1,,,,,,,,In Progress
+Verify the comment field for null value.,EL-8,10047,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 9:42 AM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-7,EL-3,,,,,,,,,,,,{},,,,,,,0|i00062:,,EL Sprint 1,,,,,,,,Done
+Verify the comment field for 256 characters value.,EL-7,10046,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 9:21 AM,07/Sep/21 9:59 AM,09/Sep/21 4:53 AM,07/Sep/21 9:59 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-6,EL-3,,,,,,,,,,,,{},,,,,,,0|i00065:,,EL Sprint 1,,,,,,,,Done
+Verify the comment field for special characters value.,EL-6,10045,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 9:13 AM,07/Sep/21 4:52 AM,09/Sep/21 4:53 AM,07/Sep/21 4:52 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-5,EL-3,,,,,,,,,,,,{},,,,,,,0|i00061:,,EL Sprint 1,,,,,,,,Done
+Verify the comment field for numeric value.,EL-5,10044,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 9:07 AM,07/Sep/21 9:56 AM,09/Sep/21 4:53 AM,07/Sep/21 9:56 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,EL-4,EL-3,,,,,,,,,,,,{},,,,,,,0|i00063:,,EL Sprint 1,,,,,,,,Done
+Verify the comment field for alphabetic value.,EL-4,10043,Test,Done,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,Done,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 8:45 AM,07/Sep/21 9:58 AM,09/Sep/21 4:53 AM,07/Sep/21 9:58 AM,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,,EL-3,,,,,,,,,,,,{},,,,,,,0|i00067:,,EL Sprint 1,,,,,,,,Done
+As a user I want to write comment in the comment field so that i would be able to Write and post on the wall.,EL-3,10042,Story,Blocked,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 8:34 AM,07/Sep/21 9:46 AM,07/Sep/21 7:14 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,,EL-1,EL-52,EL-53,,,,,,,,,,{},,,,,,,0|i0005z:,,EL Sprint 1,,,,,,,,In Progress
+Taste cases to be checked modules within Social Network.,EL-1,10040,Epic,In Progress,EL,E Learning,software,Soham Yadav,612ef77fb1894f00716da8ab,,Medium,,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,Soham Yadav,612ef77fb1894f00716da8ab,02/Sep/21 7:01 AM,08/Sep/21 4:26 AM,08/Sep/21 4:22 AM,,,0,,,Soham Yadav,612ef77fb1894f00716da8ab,,,,,,,,,,,,,EL-56,EL-76,EL-65,,,,,,,,,,{},ghx-label-1,,ELearning,To Do,,,0|i0005r:,,EL Sprint 1,,,,,,,,In Progress
